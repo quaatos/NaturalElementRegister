@@ -26,7 +26,7 @@ function sendRequest() {
 const requestUrl = '/formulas.json';
 //let atomInfo = requestUrl;
 
-//data.atom = 
+//data.atom =
 
 //Show the JSON information on the webpage using .innerText
 if (singleElement == "Hydrogen") {
