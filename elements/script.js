@@ -2,10 +2,10 @@
 function singleElement() {
 
 let atom = document.getElementById('atom');
-let creation = document.getElementById('creation');
 let symbol = document.getElementById('symbol');
 let atomNumber = document.getElementById('atomNumber');
 let radioActive = document.getElementById('radioActive');
+let kind = document.getElementById('kind');
 
 let singleElement = document.getElementById('singleElement').value;
 
