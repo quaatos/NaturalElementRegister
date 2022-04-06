@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(88, 72, 104);
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+div > input {
+    width: 500px;
+}
+
+.alignInformation {
+    text-align: center;
+}
+
+p {
+    display: inline;
+    color: rgb(17, 224, 224);
+    margin-left: 45%;
+}
+
+table, th, tr, td {
+    border: 3px solid white;
+    color: white;
+}
+
+.tableAlign {
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}
