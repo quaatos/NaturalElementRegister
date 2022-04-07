@@ -2,20 +2,13 @@
 function singleElement() {
 
 let atom = document.getElementById('atom');
-let symbol = document.getElementById('symbol');
 let atomNumber = document.getElementById('atomNumber');
 let radioActive = document.getElementById('radioActive');
 let kind = document.getElementById('kind');
+let boiling = document.getElementById('boiling');
+let mass = document.getElementById('mass');
 
 let singleElement = document.getElementById('singleElement').value;
-
-if (singleElement == "") {
-    atom.innerText = "";
-    symbol.innerText = "";
-    atomNumber.innerText = "";
-    radioActive.innerText = "";
-    kind.innerText = "";
-}
 
 function requestJSON(url) {
     let request = new XMLHttpRequest();
@@ -34,16 +27,15 @@ function sendRequest() {
 const requestUrl = './formulas.json';
 //let atomInfo = requestUrl;
 
-//data.atom =
-
 //Show the JSON information on the webpage using .innerText
-if (singleElement == "Hydrogen") {
+if (singleElement == "H") {
     console.log(atom);
     atom.innerText = "Hydrogen";
-    symbol.innerText = "H";
     atomNumber.innerText = "1";
     radioActive.innerText = "no";
     kind.innerText = "Non metal";
+    melting.innerText = "";
+    mass.innerText = "";
 }
 
 function processResponse(response) {

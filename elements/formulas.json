@@ -5,826 +5,944 @@
           "Symbol": "H",
           "atomNumber": "1",
           "Radioactive": "No",
-          "kind": "Nonmetal"
+          "kind": "Nonmetal",
+          "Boiling": "-252,762 C°"
        },
        {
           "atom": "Helium",
           "Symbol": "HE",
           "atomNumber": "2",
           "Radioactive": "No",
-          "kind": "noble gas"
+          "kind": "noble gas",
+          "Boiling": "-268,93 C°"
        },
        {
          "atom": "Lithium",
          "Symbol": "Li",
          "atomNumber": "3",
          "Radioactive": "No",
-         "kind": "Alkali Metal"
+         "kind": "Alkali Metal",
+         "Boiling": "1342 C°"
        },
        {
          "atom": "Beryllium",
          "Symbol": "Be",
          "atomNumber": "4",
          "Radioactive": "No",
-         "kind": "Alkaline Earth"
+         "kind": "Alkaline Earth",
+         "Boiling": "2471 C°"
        },
        {
          "atom": "Boron",
          "Symbol": "B",
          "atomNumber": "5",
          "Radioactive": "No",
-         "kind": "Semimetal"
+         "kind": "Semimetal",
+         "Boiling": "4000 C°"
        },
        {
          "atom": "Carbon",
          "Symbol": "C",
          "atomNumber": "6",
          "Radioactive": "No",
-         "kind": "Nonmetal"
+         "kind": "Nonmetal",
+         "Boiling": "3825 C°"
        },
        {
          "atom": "Nitrogen",
          "Symbol": "N",
          "atomNumber": "7",
          "Radioactive": "No",
-         "kind": "Nonmetal"
+         "kind": "Nonmetal",
+         "Boiling": "-195,798 C°"
        },
        {
          "atom": "Oxygen",
          "Symbol": "O",
          "atomNumber": "8",
          "Radioactive": "No",
-         "kind": "Nonmetal"
+         "kind": "Nonmetal",
+         "Boiling": "-182,953 C°"
        },
        {
          "atom": "Fluorine",
          "Symbol": "F",
          "atomNumber": "9",
          "Radioactive": "No",
-         "kind": "Halogen"
+         "kind": "Halogen",
+         "Boiling": "-188,12 C°"
        },
        {
          "atom": "Neon",
          "Symbol": "C",
          "atomNumber": "10",
          "Radioactive": "No",
-         "kind": "Noble gas"
+         "kind": "Noble gas",
+         "Boiling": "-246,053 C°"
        },
        {
          "atom": "Sodium",
          "Symbol": "Na",
          "atomNumber": "11",
          "Radioactive": "No",
-         "kind": "Alkali Metal"
+         "kind": "Alkali Metal",
+         "Boiling": "882,940 C°"
        },
        {
          "atom": "Magnesium",
          "Symbol": "Mg",
          "atomNumber": "12",
          "Radioactive": "No",
-         "kind": "Alkaline Earth"
+         "kind": "Alkaline Earth",
+         "Boiling": "1090 C°"
        },
        {
          "atom": "Aluminium",
          "Symbol": "Al",
          "atomNumber": "13",
          "Radioactive": "No",
-         "kind": "Basic Metal"
+         "kind": "Basic Metal",
+         "Boiling": "2519 C°"
        },
        {
          "atom": "Silicon",
          "Symbol": "Si",
          "atomNumber": "14",
          "Radioactive": "No",
-         "kind": "Semimetal"
+         "kind": "Semimetal",
+         "Boiling": "3265 C°"
        },
        {
          "atom": "Phosphorus",
          "Symbol": "P",
          "atomNumber": "15",
          "Radioactive": "No",
-         "kind": "Nonmetal"
+         "kind": "Nonmetal",
+         "Boiling": "280,5 C°"
        },
        {
          "atom": "Sulfur",
          "Symbol": "S",
          "atomNumber": "16",
          "Radioactive": "No",
-         "kind": "Nonmetal"
+         "kind": "Nonmetal",
+         "Boiling": "444,61 C°"
        },
        {
          "atom": "Chlorine",
          "Symbol": "Cl",
          "atomNumber": "17",
          "Radioactive": "No",
-         "kind": "Halogen"
+         "kind": "Halogen",
+         "Boiling": "-101,5 C°"
        },
        {
          "atom": "Argon",
          "Symbol": "Ar",
          "atomNumber": "18",
          "Radioactive": "No",
-         "kind": "Noble gas"
+         "kind": "Noble gas",
+         "Boiling": "-185,847 C°"
        },
        {
          "atom": "Potassium",
          "Symbol": "K",
          "atomNumber": "19",
          "Radioactive": "No",
-         "kind": "Alkali Metal"
+         "kind": "Alkali Metal",
+         "Boiling": "759 C°"
        },
        {
          "atom": "Calcium",
          "Symbol": "Ca",
          "atomNumber": "20",
          "Radioactive": "No",
-         "kind": "Alkaline Earth"
+         "kind": "Alkaline Earth",
+         "Boiling": "1484 C°"
        },
        {
          "atom": "Scandium",
          "Symbol": "Sc",
          "atomNumber": "21",
          "Radioactive": "No",
-         "kind": "Alkali Metal"
+         "kind": "Alkali Metal",
+         "Boiling": "2836 C°"
        },
        {
          "atom": "Titanium",
          "Symbol": "Ti",
          "atomNumber": "22",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "3287 C°"
        },
        {
          "atom": "Vanadium",
          "Symbol": "V",
          "atomNumber": "23",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "3407 C°"
        },
        {
          "atom": "Chromium",
          "Symbol": "Cr",
          "atomNumber": "24",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "2671 C°"
        },
        {
          "atom": "Manganese",
          "Symbol": "Mn",
          "atomNumber": "25",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "2061 C°"
        },
        {
          "atom": "iron",
          "Symbol": "Fe",
          "atomNumber": "26",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "2861 C°"
        },
        {
          "atom": "Cobalt",
          "Symbol": "Co",
          "atomNumber": "27",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "2927 C°"
        },
        {
          "atom": "Nikkel",
          "Symbol": "Ni",
          "atomNumber": "28",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "2913 C°"
        },
        {
          "atom": "Copper",
          "Symbol": "Cu",
          "atomNumber": "29",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "2562 C°"
        },
        {
          "atom": "Zinc",
          "Symbol": "Zn",
          "atomNumber": "30",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "907 C°"
        },
        {
          "atom": "Gallium",
          "Symbol": "Zn",
          "atomNumber": "31",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "2204 C°"
        },
        {
          "atom": "Germanium",
          "Symbol": "Ge",
          "atomNumber": "32",
          "Radioactive": "No",
-         "kind": "Basic Metal"
+         "kind": "Basic Metal",
+         "Boiling": "2833 C°"
        },
        {
          "atom": "Arsenic",
          "Symbol": "As",
          "atomNumber": "33",
          "Radioactive": "No",
-         "kind": "Semimetal"
+         "kind": "Semimetal",
+         "Boiling": "616 C°"
        },
        {
          "atom": "Selenium",
          "Symbol": "Se",
          "atomNumber": "34",
          "Radioactive": "No",
-         "kind": "Nonmetal"
+         "kind": "Nonmetal",
+         "Boiling": "685 C°"
        },
        {
          "atom": "Bromine",
          "Symbol": "Br",
          "atomNumber": "35",
          "Radioactive": "No",
-         "kind": "Halogen"
+         "kind": "Halogen",
+         "Boiling": "58,8 C°"
        },
        {
          "atom": "Krypton",
          "Symbol": "Kr",
          "atomNumber": "36",
          "Radioactive": "No",
-         "kind": "Noble Gas"
+         "kind": "Noble Gas",
+         "Boiling": "-153,34 C°"
        },
        {
          "atom": "Rubidium",
          "Symbol": "Rb",
          "atomNumber": "37",
          "Radioactive": "No",
-         "kind": "Alkali Metal"
+         "kind": "Alkali Metal",
+         "Boiling": "688 C°"
        },
        {
          "atom": "Strontium",
          "Symbol": "Sr",
          "atomNumber": "38",
          "Radioactive": "No",
-         "kind": "Alkaline Earth"
+         "kind": "Alkaline Earth",
+         "Boiling": "1382 C°"
        },
        {
          "atom": "Yttrium",
          "Symbol": "Y",
          "atomNumber": "39",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "3345 C°"
        },
        {
          "atom": "Zirconium",
          "Symbol": "Zr",
          "atomNumber": "40",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "4409 C°"
        },
        {
          "atom": "Niobium",
          "Symbol": "Nb",
          "atomNumber": "41",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "4744 C°"
        },
        {
          "atom": "Molybderum",
          "Symbol": "Mo",
          "atomNumber": "42",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "4639 C°"
        },
        {
          "atom": "Technetium",
          "Symbol": "Tc",
          "atomNumber": "43",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "4265 C°"
        },
        {
          "atom": "Ruthenium",
          "Symbol": "Ru",
          "atomNumber": "44",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "4150 C°"
        },
        {
          "atom": "Rhodium",
          "Symbol": "Rh",
          "atomNumber": "45",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "3695 C°"
        },
        {
          "atom": "Palladium",
          "Symbol": "Pd",
          "atomNumber": "46",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "2963 C°"
        },
        {
          "atom": "Silver",
          "Symbol": "Ag",
          "atomNumber": "47",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "2165 C°"
        },
        {
          "atom": "Cadmium",
          "Symbol": "Cd",
          "atomNumber": "48",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "767 C°"
        },
        {
          "atom": "indium",
          "Symbol": "In",
          "atomNumber": "49",
          "Radioactive": "No",
-         "kind": "Basic Metal"
+         "kind": "Basic Metal",
+         "Boiling": "2072 C°"
        },
        {
          "atom": "Tin",
          "Symbol": "Sn",
          "atomNumber": "50",
          "Radioactive": "No",
-         "kind": "Basic Metal"
+         "kind": "Basic Metal",
+         "Boiling": "2602 C°"
        },
        {
          "atom": "Antimony",
          "Symbol": "Sb",
          "atomNumber": "51",
          "Radioactive": "No",
-         "kind": "Semimetal"
+         "kind": "Semimetal",
+         "Boiling": "1587 C°"
        },
        {
          "atom": "Tellurium",
          "Symbol": "Te",
          "atomNumber": "52",
          "Radioactive": "No",
-         "kind": "Semimetal"
+         "kind": "Semimetal",
+         "Boiling": "988 C°"
        },
        {
          "atom": "Iodine",
          "Symbol": "I",
          "atomNumber": "53",
          "Radioactive": "No",
-         "kind": "Halogen"
+         "kind": "Halogen",
+         "Boiling": "184,4 C°"
        },
        {
          "atom": "Xenon",
          "Symbol": "Xe",
          "atomNumber": "54",
          "Radioactive": "No",
-         "kind": "Nobel Gas"
+         "kind": "Nobel Gas",
+         "Boiling": "-108,09 C°"
        },
        {
          "atom": "Cesium",
          "Symbol": "Cs",
          "atomNumber": "55",
          "Radioactive": "No",
-         "kind": "Alkali Metal"
+         "kind": "Alkali Metal",
+         "Boiling": "671 C°"
        },
        {
          "atom": "Barium",
          "Symbol": "Ba",
          "atomNumber": "56",
          "Radioactive": "No",
-         "kind": "Alkaline Earth"
+         "kind": "Alkaline Earth",
+         "Boiling": "1897 C°"
        },
        {
          "atom": "Lanthanum",
          "Symbol": "La",
          "atomNumber": "57",
          "Radioactive": "No",
-         "kind": "Lanthanide"
+         "kind": "Lanthanide",
+         "Boiling": "3464 C°"
        },
        {
          "atom": "Cerium",
          "Symbol": "Ce",
          "atomNumber": "58",
          "Radioactive": "No",
-         "kind": "Lanthanide"
+         "kind": "Lanthanide",
+         "Boiling": "3443 C°"
        },
        {
          "atom": "Praseodymium",
          "Symbol": "Pr",
          "atomNumber": "59",
          "Radioactive": "No",
-         "kind": "Lanthanide"
+         "kind": "Lanthanide",
+         "Boiling": "3520 C°"
        },
        {
          "atom": "Neodymium",
          "Symbol": "Nd",
          "atomNumber": "60",
          "Radioactive": "No",
-         "kind": "Lanthanide"
+         "kind": "Lanthanide",
+         "Boiling": "3074 C°"
        },
        {
          "atom": "Promethium",
          "Symbol": "Pm",
          "atomNumber": "61",
          "Radioactive": "yes",
-         "kind": "Lanthanide"
+         "kind": "Lanthanide",
+         "Boiling": "3000 C°"
        },
        {
          "atom": "Samarium",
          "Symbol": "Sm",
          "atomNumber": "62",
          "Radioactive": "No",
-         "kind": "Lanthanide"
+         "kind": "Lanthanide",
+         "Boiling": "1794 C°"
        },
        {
          "atom": "Europium",
          "Symbol": "Eu",
          "atomNumber": "63",
          "Radioactive": "No",
-         "kind": "Lanthanide"
+         "kind": "Lanthanide",
+         "Boiling": "1529 C°"
        },
        {
          "atom": "Gadolinium",
          "Symbol": "Gd",
          "atomNumber": "64",
          "Radioactive": "No",
-         "kind": "Lanthanide"
+         "kind": "Lanthanide",
+         "Boiling": "3273 C°"
        },
        {
          "atom": "Terbium",
          "Symbol": "Tb",
          "atomNumber": "65",
          "Radioactive": "No",
-         "kind": "Lanthanide"
+         "kind": "Lanthanide",
+         "Boiling": "3230 C°"
        },
        {
          "atom": "Dysprosium",
          "Symbol": "Dy",
          "atomNumber": "66",
          "Radioactive": "No",
-         "kind": "Lanthanide"
+         "kind": "Lanthanide",
+         "Boiling": "2567 C°"
        },
        {
          "atom": "holmium",
          "Symbol": "Ho",
          "atomNumber": "67",
          "Radioactive": "No",
-         "kind": "Lanthanide"
+         "kind": "Lanthanide",
+         "Boiling": "2700 C°"
        },
        {
          "atom": "erbium",
          "Symbol": "Er",
          "atomNumber": "68",
          "Radioactive": "No",
-         "kind": "Lanthanide"
+         "kind": "Lanthanide",
+         "Boiling": "2868 C°"
        },
        {
          "atom": "Thulium",
          "Symbol": "Tm",
          "atomNumber": "69",
          "Radioactive": "No",
-         "kind": "Lanthanide"
+         "kind": "Lanthanide",
+         "Boiling": "1950 C°"
        },
        {
          "atom": "Ytterbium",
          "Symbol": "Yb",
          "atomNumber": "70",
          "Radioactive": "No",
-         "kind": "Lanthanide"
+         "kind": "Lanthanide",
+         "Boiling": "1196 C°"
        },
        {
          "atom": "Lutetium",
          "Symbol": "Lu",
          "atomNumber": "71",
          "Radioactive": "No",
-         "kind": "Lanthanide"
+         "kind": "Lanthanide",
+         "Boiling": "3402 C°"
        },
        {
          "atom": "Hafnium",
          "Symbol": "Hf",
          "atomNumber": "72",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "4603 C°"
        },
        {
          "atom": "Tantalum",
          "Symbol": "Ta",
          "atomNumber": "73",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "5458 C°"
        },
        {
          "atom": "Tungsten (wolfram)",
          "Symbol": "W",
          "atomNumber": "74",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "5555 C°"
        },
        {
          "atom": "Rhenium",
          "Symbol": "Re",
          "atomNumber": "75",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "5596 C°"
        },
        {
          "atom": "Osmium",
          "Symbol": "Os",
          "atomNumber": "76",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "5012 C°"
        },
        {
          "atom": "Iridium",
          "Symbol": "Ir",
          "atomNumber": "77",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "4428 C°"
        },
        {
          "atom": "Platinum",
          "Symbol": "Pt",
          "atomNumber": "78",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "3825 C°"
        },
        {
          "atom": "Gold",
          "Symbol": "Au",
          "atomNumber": "79",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "2856 C°"
        },
        {
          "atom": "Mercury",
          "Symbol": "Hg",
          "atomNumber": "80",
          "Radioactive": "No",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "356,62 C°"
        },
        {
          "atom": "Thallium",
          "Symbol": "Tl",
          "atomNumber": "81",
          "Radioactive": "No",
-         "kind": "Basic Metal"
+         "kind": "Basic Metal",
+         "Boiling": "1473 C°"
        },
        {
          "atom": "Lead",
          "Symbol": "Pb",
          "atomNumber": "82",
          "Radioactive": "No",
-         "kind": "Basic Metal"
+         "kind": "Basic Metal",
+         "Boiling": "1749 C°"
        },
        {
          "atom": "Bismuth",
          "Symbol": "Bi",
          "atomNumber": "83",
          "Radioactive": "No",
-         "kind": "Basic Metal"
+         "kind": "Basic Metal",
+         "Boiling": "1564 C°"
        },
        {
          "atom": "Polonium",
          "Symbol": "Po",
          "atomNumber": "84",
          "Radioactive": "yes",
-         "kind": "Semimetal"
+         "kind": "Semimetal",
+         "Boiling": "962 C°"
        },
        {
          "atom": "Astatine",
          "Symbol": "At",
          "atomNumber": "85",
          "Radioactive": "yes",
-         "kind": "Halogen"
+         "kind": "Halogen",
+         "Boiling": "337 C°"
        },
        {
          "atom": "Radon",
          "Symbol": "Rn",
          "atomNumber": "86",
          "Radioactive": "yes",
-         "kind": "Noble Gas"
+         "kind": "Noble Gas",
+         "Boiling": "-61,7 C°"
        },
        {
          "atom": "francium",
          "Symbol": "Fr",
          "atomNumber": "87",
          "Radioactive": "yes",
-         "kind": "Alkali Metal"
+         "kind": "Alkali Metal",
+         "Boiling": "677 C°"
        },
        {
          "atom": "Radium",
          "Symbol": "Ra",
          "atomNumber": "88",
          "Radioactive": "yes",
-         "kind": "Alkaline Earth"
+         "kind": "Alkaline Earth",
+         "Boiling": "1737 C°"
        },
        {
          "atom": "Actinium",
          "Symbol": "Ac",
          "atomNumber": "89",
          "Radioactive": "yes",
-         "kind": "Actinide"
+         "kind": "Actinide",
+         "Boiling": "3198 C°"
        },
        {
          "atom": "Thorium",
          "Symbol": "Th",
          "atomNumber": "90",
          "Radioactive": "no",
-         "kind": "Actinide"
+         "kind": "Actinide",
+         "Boiling": "4788 C°"
        },
        {
          "atom": "Protactinium",
          "Symbol": "Pa",
          "atomNumber": "91",
          "Radioactive": "yes",
-         "kind": "Actinide"
+         "kind": "Actinide",
+         "Boiling": "4027 C°"
        },
        {
          "atom": "Uranium",
          "Symbol": "U",
          "atomNumber": "88",
          "Radioactive": "yes",
-         "kind": "Actinide"
+         "kind": "Actinide",
+         "Boiling": "4174 C°"
        },
        {
          "atom": "Neptunium",
          "Symbol": "Np",
          "atomNumber": "93",
          "Radioactive": "yes",
-         "kind": "Actinide"
+         "kind": "Actinide",
+         "Boiling": "4174 C°"
        },
        {
          "atom": "Plutonium",
          "Symbol": "Pu",
          "atomNumber": "94",
          "Radioactive": "yes",
-         "kind": "Actinide"
+         "kind": "Actinide",
+         "Boiling": "3228 C°"
        },
        {
          "atom": "Americium",
          "Symbol": "Am",
          "atomNumber": "95",
          "Radioactive": "yes",
-         "kind": "Actinide"
+         "kind": "Actinide",
+         "Boiling": "2011 C°"
        },
        {
          "atom": "Curium",
          "Symbol": "Cm",
          "atomNumber": "96",
          "Radioactive": "yes",
-         "kind": "Actinide"
+         "kind": "Actinide",
+         "Boiling": "3100 C°"
        },
        {
          "atom": "Berkelium",
          "Symbol": "Bk",
          "atomNumber": "97",
          "Radioactive": "yes",
-         "kind": "Actinide"
+         "kind": "Actinide",
+         "Boiling": "2627 C°"
        },
        {
          "atom": "Californium",
          "Symbol": "Cf",
          "atomNumber": "98",
          "Radioactive": "yes",
-         "kind": "Actinide"
+         "kind": "Actinide",
+         "Boiling": "unknown"
        },
        {
          "atom": "Einsteinium",
          "Symbol": "Es",
          "atomNumber": "99",
          "Radioactive": "yes",
-         "kind": "Actinide"
+         "kind": "Actinide",
+         "Boiling": "unknown"
        },
        {
          "atom": "Fermium",
          "Symbol": "Fm",
          "atomNumber": "100",
          "Radioactive": "yes",
-         "kind": "Actinide"
+         "kind": "Actinide",
+         "Boiling": "unknown"
        },
        {
          "atom": "Mendelevium",
          "Symbol": "Md",
          "atomNumber": "101",
          "Radioactive": "yes",
-         "kind": "Actinide"
+         "kind": "Actinide",
+         "Boiling": "unknown"
        },
        {
          "atom": "Nobelium",
          "Symbol": "No",
          "atomNumber": "102",
          "Radioactive": "yes",
-         "kind": "Actinide"
+         "kind": "Actinide",
+         "Boiling": "unknown"
        },
        {
          "atom": "Lawrencium",
          "Symbol": "Lr",
          "atomNumber": "103",
          "Radioactive": "yes",
-         "kind": "Actinide"
+         "kind": "Actinide",
+         "Boiling": "unknown"
        },
        {
          "atom": "Rutherfordium",
          "Symbol": "Rf",
          "atomNumber": "104",
          "Radioactive": "yes",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "unknown"
        },
        {
          "atom": "Dubnium",
          "Symbol": "Db",
          "atomNumber": "105",
          "Radioactive": "yes",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "unknown"
        },
        {
          "atom": "Seaborgium",
          "Symbol": "Sg",
          "atomNumber": "106",
          "Radioactive": "yes",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "unknown"
        },
        {
          "atom": "bohrium",
          "Symbol": "Bh",
          "atomNumber": "107",
          "Radioactive": "yes",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "unknown"
        },
        {
          "atom": "Hasium",
          "Symbol": "Hs",
          "atomNumber": "108",
          "Radioactive": "yes",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "unknown"
        },
        {
          "atom": "Meitnerium",
          "Symbol": "Mt",
          "atomNumber": "109",
          "Radioactive": "yes",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "unknown"
        },
        {
          "atom": "Darmstadtium",
          "Symbol": "Ds",
          "atomNumber": "110",
          "Radioactive": "yes",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "unknown"
        },
        {
          "atom": "Roentgenium",
          "Symbol": "Rg",
          "atomNumber": "111",
          "Radioactive": "yes",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "unknown"
        },
        {
          "atom": "Copernicium",
          "Symbol": "Cn",
          "atomNumber": "112",
          "Radioactive": "yes",
-         "kind": "Transition Metal"
+         "kind": "Transition Metal",
+         "Boiling": "unknown"
        },
        {
          "atom": "Ununtrium",
          "Symbol": "Uut",
          "atomNumber": "113",
          "Radioactive": "yes",
-         "kind": "Basic Metal"
+         "kind": "Basic Metal",
+         "Boiling": "unknown"
        },
        {
          "atom": "Flerovium",
          "Symbol": "Fl",
          "atomNumber": "114",
          "Radioactive": "yes",
-         "kind": "Basic Metal"
+         "kind": "Basic Metal",
+         "Boiling": "unknown"
        },
        {
          "atom": "ununpentium",
          "Symbol": "Uup",
          "atomNumber": "115",
          "Radioactive": "yes",
-         "kind": "Basic Metal"
+         "kind": "Basic Metal",
+         "Boiling": "unknown"
        },
        {
          "atom": "Livermorium",
          "Symbol": "Lv",
          "atomNumber": "116",
          "Radioactive": "yes",
-         "kind": "Basic Metal"
+         "kind": "Basic Metal",
+         "Boiling": "unknown"
        },
        {
          "atom": "Ununseptium",
          "Symbol": "Uus",
          "atomNumber": "117",
          "Radioactive": "yes",
-         "kind": "Halogen"
+         "kind": "Halogen",
+         "Boiling": "unknown"
        },
        {
          "atom": "Ununoctium",
          "Symbol": "Uuo",
          "atomNumber": "118",
          "Radioactive": "yes",
-         "kind": "Nobel Gas"
+         "kind": "Nobel Gas",
+         "Boiling": "unknown"
        }
     ]
  }

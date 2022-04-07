@@ -11,7 +11,7 @@
 </head>
 <body>
     <div>
-        <input type="text" id="singleElement" placeholder="Hydrogen? Plutonium? Natrium? Oxygen? Enter whatever you want!"><br>
+        <input type="text" id="singleElement" placeholder="Enter Chemical symbol, as seen in the table below."><br>
         <button onclick="singleElement()">Element</button>
     </div>
 <div class="tableAlign">
@@ -25,10 +25,6 @@
             <td id="atom"></td>
         </tr>
         <tr>
-            <td>Symbol</td>
-            <td id="symbol"></td>
-        </tr>
-        <tr>
             <td>atomNumber</td>
             <td id="atomNumber"></td>
         </tr>
@@ -39,6 +35,14 @@
         <tr>
           <td>Kind</td>
           <td id="kind"></td>
+        </tr>
+        <tr>
+           <td>Boiling point</td> 
+           <td id="boiling"></td>
+        </tr>
+        <tr>
+           <td>Atomic mass</td> 
+           <td id="mass"></td>
         </tr>
     </table>
 </div>
@@ -164,8 +168,8 @@
                 <td class="DarkGreen">Fl</td>
                 <td class="DarkGreen">Mc</td>
                 <td class="DarkGreen">Lv</td>
-                <td class="LightPurple">Ts</td>
-                <td class="DarkPurple">Og</td>
+                <td class="LightPurple">Uus</td>
+                <td class="DarkPurple">Uuo</td>
             </tr>
             </table>
         </div>
