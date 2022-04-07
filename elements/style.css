@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(88, 72, 104);
+    background-color: rgb(128, 0, 255);
 }
 
 div {
@@ -30,4 +30,113 @@ table, th, tr, td {
     padding-top: 10px;
     display: flex;
     justify-content: center;
+}
+
+#atom, #symbol, #atomNumber, #radioActive, #kind {
+    color: rgba(0, 0, 0, 0.538);
+}
+
+#tableAlign {
+    display: flex;
+    justify-content: center;
+}
+
+/* Periodic table styling */
+.periodicTable {
+    border: none;
+}
+
+.DarkPurple {
+    border: 2px solid black;
+    color: black;
+    text-align: center;
+    background-color: rgb(148, 34, 148);
+    width: 25px;
+    height: 25px;
+}
+
+.LightPurple {
+    border: 2px solid black;
+    color: black;
+    text-align: center;
+    background-color: rgb(250, 65, 250);
+    width: 25px;
+    height: 25px;
+}
+
+.DarkBlue {
+    border: 2px solid black;
+    color: black;
+    text-align: center;
+    background-color: rgb(35, 17, 231);
+    width: 25px;
+    height: 25px;
+}
+
+.DarkRed {
+    border: 2px solid black;
+    color: black;
+    text-align: center;
+    background-color: rgb(224, 20, 20);
+    width: 25px;
+    height: 25px;
+}
+
+.DarkOrange {
+    border: 2px solid black;
+    color: black;
+    text-align: center;
+    background-color: rgb(223, 96, 18);
+    width: 25px;
+    height: 25px;
+}
+
+.lightBlue {
+    border: 2px solid black;
+    color: black;
+    text-align: center;
+    background-color: rgb(105, 239, 226);
+    width: 25px;
+    height: 25px;
+}
+
+.DarkGreen {
+    border: 2px solid black;
+    color: black;
+    text-align: center;
+    background-color: rgb(42, 110, 16);
+    width: 25px;
+    height: 25px;
+}
+
+.yellow {
+    border: 2px solid black;
+    color: black;
+    text-align: center;
+    background-color: rgb(255, 234, 42);
+    width: 25px;
+    height: 25px;
+}
+
+#FirstNumering, #SecondNumering {
+    font-size: x-small;
+}
+
+.pink {
+    border: 2px solid black;
+    color: black;
+    text-align: center;
+    background-color: rgb(243, 16, 190);
+    width: 25px;
+    height: 25px; 
+}
+
+.tablePadding {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.stylingTable {
+    border: none;
 }

@@ -9,6 +9,14 @@ let kind = document.getElementById('kind');
 
 let singleElement = document.getElementById('singleElement').value;
 
+if (singleElement == "") {
+    atom.innerText = "";
+    symbol.innerText = "";
+    atomNumber.innerText = "";
+    radioActive.innerText = "";
+    kind.innerText = "";
+}
+
 function requestJSON(url) {
     let request = new XMLHttpRequest();
     request.open('GET', url);
@@ -23,7 +31,7 @@ function sendRequest() {
     requestJSON(requestUrl);
 }
 
-const requestUrl = '/formulas.json';
+const requestUrl = './formulas.json';
 //let atomInfo = requestUrl;
 
 //data.atom =
@@ -31,12 +39,11 @@ const requestUrl = '/formulas.json';
 //Show the JSON information on the webpage using .innerText
 if (singleElement == "Hydrogen") {
     console.log(atom);
-    //const atoms = JSON.parse(atomInfo);
     atom.innerText = "Hydrogen";
-    creation.innerText = "All type of stars";
     symbol.innerText = "H";
     atomNumber.innerText = "1";
     radioActive.innerText = "no";
+    kind.innerText = "Non metal";
 }
 
 function processResponse(response) {
