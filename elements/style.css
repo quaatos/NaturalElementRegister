@@ -32,10 +32,6 @@ table, th, tr, td {
     justify-content: center;
 }
 
-#atom, #symbol, #atomNumber, #radioActive, #kind {
-    color: rgba(0, 0, 0, 0.538);
-}
-
 #tableAlign {
     display: flex;
     justify-content: center;

@@ -37,11 +37,11 @@
           <td id="kind"></td>
         </tr>
         <tr>
-           <td>Boiling point</td> 
+           <td>Boiling point</td>
            <td id="boiling"></td>
         </tr>
         <tr>
-           <td>Atomic mass</td> 
+           <td>Atomic mass</td>
            <td id="mass"></td>
         </tr>
     </table>
@@ -79,7 +79,7 @@
             <tr>
                 <td class="DarkRed">Na</td>
                 <td class="DarkOrange">Mg</td>
-                <?php 
+                <?php
                     for ($x = 0; $x < 10; $x++) {
                         echo "<td class='periodicTable'></td>";
                     }
@@ -113,7 +113,7 @@
             </tr>
             <tr>
                 <td class="DarkRed">Rb</td>
-                <td class="DarkOrange">Ca</td>
+                <td class="DarkOrange">Sr</td>
                 <td class="yellow">Y</td>
                 <td class="yellow">Zr</td>
                 <td class="yellow">Nb</td>
@@ -173,7 +173,7 @@
             </tr>
             </table>
         </div>
-    
+
     <div class="tablePadding">
         <table class="stylingTable">
             <tr>

@@ -24,19 +24,20 @@ function sendRequest() {
     requestJSON(requestUrl);
 }
 
-const requestUrl = './formulas.json';
+const requestUrl = JSON.parse("./formulas.json");
 //let atomInfo = requestUrl;
 
 //Show the JSON information on the webpage using .innerText
 if (singleElement == "H") {
-    console.log(atom);
     atom.innerText = "Hydrogen";
     atomNumber.innerText = "1";
     radioActive.innerText = "no";
     kind.innerText = "Non metal";
-    melting.innerText = "";
+    boiling.innerText = "-252,762 C°";
     mass.innerText = "";
 }
+
+console.log(requestUrl);
 
 function processResponse(response) {
 //JSON string
